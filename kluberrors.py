@@ -1,0 +1,2 @@
+class BadFileSignature(Exception):
+    pass
