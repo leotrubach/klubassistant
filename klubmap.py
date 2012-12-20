@@ -56,7 +56,7 @@ POSITION_CODES = (POS_MIDDLE, POS_START, POS_END)
 
 OBJECT_TYPES = {
     1: 'semaphore',
-    2: 'station start',
+    2: 'station boundary',
     3: 'dangerous place',
     4: 'bridge',
     5: 'passby',
